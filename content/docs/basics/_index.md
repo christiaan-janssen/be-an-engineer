@@ -1,8 +1,8 @@
 ---
-title: 01. Basics
+title: Basics
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: docs
+next: docs/basics/01-operating-systems
 sidebar:
   open: true
 ---
