@@ -5,6 +5,9 @@ toc: false
 
 
 # Welcome!
+
+> **This document is a work in progress**, if something is missing it might be added later
+
 One day, for what ever reason, you decide that your not really happy with your work. It doesn't matter if your job is x or y, but you think that you might want to get into that sweet sweet IT sector. Well, this very opinionated document might be just what you need! 
 
 This document will go over what I think might be a path into becoming an IT guy. Now, we in it like to throw the term engineer around a lot, but this is not a guid to get a degree of any kind. For this guide you only need to be able to know how to read, and handle a mouse and a keyboard. If you made it this far, I guess reading is not a problem. It would help if you are naturally curious about how things work, as that will help drive you towards finding solutions to your problems, but you can get very far by just reading documentation and trying things out.
