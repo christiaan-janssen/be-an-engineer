@@ -1,7 +1,8 @@
 ---
-title: 02 - Infrastructure as Code
+title: Infrastructure as Code
 type: docs
 prev: docs/basics
+next: docs/02-infra-as-code/01-terraform
 sidebar:
   open: true
 ---
@@ -54,6 +55,6 @@ A very important part of the work you do as a Devops engineer is developing and 
 
 ### Cloudformation
 
-### Biceps
-
 ### Ansible
+
+### Biceps
