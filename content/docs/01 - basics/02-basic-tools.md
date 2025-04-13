@@ -1,5 +1,5 @@
 ---
-title: 02 Basic Tools
+title: 2 - Basic Tools
 type: docs
 prev: docs/01-operating-systems
 next: docs/basics/webservers
@@ -9,9 +9,11 @@ sidebar:
 There are some tools that need to be in your tool box. Here is a non exhaustive list I think you should learn.
 
 ## GIT
-Git is currently the defacto standard tool for version control. It is used in both development and ops tasks. 
+
+Git is currently the defacto standard tool for version control. It is used in both development and ops tasks.
 
 ### What is version control?
+
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It is commonly used in software development to manage the source code of a project. The main purposes of version control are:
 
 1. **Tracking Changes**: It keeps a history of modifications to files, which helps in understanding the evolution of the project and identifying when specific changes were made.
@@ -53,10 +55,10 @@ Version control is a system that records changes to a file or set of files over 
 In essence, version control is a crucial tool in software development that enhances productivity, collaboration, and the quality of the codebase.
 
 Every thing you need to know about git can be found in the [Git book](https://git-scm.com/book/en/v2). To be effective as an *engineer you need to be able to do basic task with git, at a minimum you need to be able to:
+
 - [clone, commit, merge](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 - [Fix your sh*t](https://ohshitgit.com)
 
 ## (NEO)Vim
 
 ## Docker
-

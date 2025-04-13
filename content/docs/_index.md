@@ -3,16 +3,4 @@ title: Documentation
 next: basics
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+This is the start of the docs. Find a topic you like, or go on to the basics.
